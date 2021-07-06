@@ -7,3 +7,5 @@ This is a coder refrator project for the website Horiseon. The purpose of this i
 -Replaced non-semantic HTML elemnts with semantic ones
 -Added alt text to images that need it
 -Provide comments in the code for explanation
+
+![screenshot](/assets/images/horiseon.png)
